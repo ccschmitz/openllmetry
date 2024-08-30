@@ -100,6 +100,7 @@ Traceloop.init(disable_batch=True)
 - ✅ [Splunk](https://www.traceloop.com/docs/openllmetry/integrations/splunk)
 - ✅ [OpenTelemetry Collector](https://www.traceloop.com/docs/openllmetry/integrations/otel-collector)
 - ✅ [IBM Instana](https://www.traceloop.com/docs/openllmetry/integrations/instana)
+- ✅ [Highlight.io](https://www.traceloop.com/docs/openllmetry/integrations/highlight)
 
 See [our docs](https://traceloop.com/docs/openllmetry/integrations/exporting) for instructions on connecting to each one.
 
